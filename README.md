@@ -2,6 +2,8 @@
 - Analyzed Customer Churn Using Survival Curve and Interpretable Machine Learning Model
 - Tools: Python, Scikit-Learn, Random Forest, H2O autoML, LIME
 
+_Code_ is available [here](https://github.com/UiiKyra/churn_analysis/blob/master/Churn_Analysis_Using_Survival_Curve_and_Interpretable_Machine_Learning_Model.ipynb). _Slides_ are available [here].
+
 # Introduction
 Customer churn happens when customers stop doing business with the company. 
 It's very important to understand why customers churn and implemet incentive promotion plans to those high risk customers. 
