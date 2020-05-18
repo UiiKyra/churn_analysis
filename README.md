@@ -6,7 +6,7 @@ _Code_ is available [here](https://github.com/UiiKyra/churn_analysis/blob/master
 
 # Introduction
 Customer churn happens when customers stop doing business with the company. 
-It's very important to understand why customers churn and implemet incentive promotion plans to those high risk customers. 
+It's very important to understand why customers churn and implement incentive promotion plans to those high risk customers. 
 Because getting new customers is way more expensive than earning the trust and loyalty of existing customers.
 
 In this project, I took the sample dataset from a telecommunication company and applied survival analysis and interpretable machine 
