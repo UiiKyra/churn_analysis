@@ -5,13 +5,10 @@
 _Code_ is available [here](https://github.com/UiiKyra/churn_analysis/blob/master/Churn_Analysis_Using_Survival_Curve_and_Interpretable_Machine_Learning_Model.ipynb). _Slides_ are available [here](https://github.com/UiiKyra/churn_analysis/blob/master/Churn%20analysis.pdf).
 
 # Introduction
-Customer churn happens when customers stop doing business with the company. 
-It's very important to understand why customers churn and implement incentive promotion plans to those high risk customers. 
-Because getting new customers is way more expensive than earning the trust and loyalty of existing customers.
+Customer churn happens when customers stop doing business with the company. It's very important to understand why customers churn and implement incentive promotion plans to those high risk customers. Because getting new customers is way more expensive than earning the trust and loyalty of existing customers.
 
-In this project, I took the sample dataset from a telecommunication company and applied survival analysis and interpretable machine 
-learning models.The goal is to help the company pinpoint which customers are churning and provide actionable insights to help it 
-generate customized retention strategies.
+In this project, I took the sample dataset from a telecommunication company and applied survival analysis and interpretable machine learning models to analyze the churn problem.
+
 
 # Dataset
 The data was downloaded from IBM Sample Data Sets for customer retention programs. Available in [here](https://www.kaggle.com/blastchar/telco-customer-churn).
